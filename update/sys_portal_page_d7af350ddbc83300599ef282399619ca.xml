@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-03-13 00:13:37">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-06 02:39:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7af350ddbc83300599ef282399619ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA Incidents by Location</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_d7af350ddbc83300599ef282399619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-06 02:39:50</sys_updated_on>
+        <title>PA Incidents by Location</title>
+        <user/>
+        <view>pa_new_tab_2_2</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Incidents by Location">d7af350ddbc83300599ef282399619ca</page>
+                <summary>All Incidents by Location</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                <sys_id>e0cf350ddbc83300599ef2823996196a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab 2">dfaf350ddbc83300599ef282399619ca</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>20cf350ddbc83300599ef2823996196c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_name>dfaf350ddbc83300599ef282399619ca</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_20cf350ddbc83300599ef2823996196c</sys_update_name>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>28cf350ddbc83300599ef2823996196b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>All Incidents by Location</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>2ccf350ddbc83300599ef2823996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>64cf350ddbc83300599ef2823996196b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>a0cf350ddbc83300599ef2823996196b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>e4cf350ddbc83300599ef2823996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>7fc239cf470111002ee987e8dee49088</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2019-03-05 21:39:25">e0cf350ddbc83300599ef2823996196a</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2019-03-06 02:39:25</sys_created_on>
+                        <sys_id>eccf350ddbc83300599ef2823996196a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2019-03-06 02:39:25</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
